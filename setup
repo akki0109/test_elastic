@@ -1,1 +1,9 @@
 just take an instance t2 large .
+
+for continuous integration setup code pipeline in aws and connect it to github for push action with your repo.
+                                           |
+                                           |
+                                           |
+
+so whenever push happens codepipeline get executed .
+and automatically deploy code in elasticbeanstalk environment

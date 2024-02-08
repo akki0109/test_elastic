@@ -4,6 +4,6 @@ for continuous integration setup code pipeline in aws and connect it to github f
                                            |
                                            |
                                            |
-
+                                           |
 so whenever push happens codepipeline get executed .
 and automatically deploy code in elasticbeanstalk environment
